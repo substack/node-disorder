@@ -3,6 +3,8 @@ disorder
 
 Compute expressions out of order, like `where` or `let` blocks in haskell.
 
+You could also think of this library as flow control for synchronous code.
+
 example
 =======
 
