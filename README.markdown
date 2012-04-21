@@ -5,6 +5,8 @@ Compute expressions out of order, like `where` or `let` blocks in haskell.
 
 You could also think of this library as flow control for synchronous code.
 
+[![build status](https://secure.travis-ci.org/substack/node-disorder.png)](http://travis-ci.org/substack/node-disorder)
+
 example
 =======
 
